@@ -8,5 +8,5 @@ This is a directory of classic arcade game clones that I made for fun.
 * Pygame library version: 2.0.1
 
 ## List of Games
-* [Pong](https://github.com/jfawcet5/Python-Games)
-* [Space Invader](https://github.com/jfawcet5/Python-Games)
+* [Pong](https://github.com/jfawcet5/Python-Games/Pong)
+* [Space Invader](https://github.com/jfawcet5/Python-Games/SpaceInvader)
