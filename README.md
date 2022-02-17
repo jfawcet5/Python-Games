@@ -12,3 +12,4 @@ a lot along the way.
 ## List of Games
 * Pong: [Repo](https://github.com/jfawcet5/Python-Games/tree/main/Pong)
 * Space Invader: [Repo](https://github.com/jfawcet5/Python-Games/tree/main/SpaceInvader)
+* Joust: [Repo](https://github.com/jfawcet5/Python-Games/tree/main/Joust)
